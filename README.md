@@ -1,4 +1,4 @@
-# METODOLOGÍA – Estimación de la caída de la participación del trabajo en el ingreso en México según Ibarra, C. A. y Ros, J. (2017)
+# Estimación de la caída de la participación del trabajo en el ingreso en México
 
 Este documento presenta la metodología utilizada para estimar la disminución de la participación del trabajo en los ingresos en México, basándose en el trabajo de Ibarra, C. A. y Ros, J. (2017).
 
