@@ -35,7 +35,7 @@ Este documento está disponible bajo la Licencia [MIT](LICENSE). Si deseas utili
 
 ## Contacto
 
-Para consultas o comentarios sobre esta metodología, no dudes en ponerte en contacto con nosotros en [correo@example.com](mailto:correo@example.com).
+Para consultas o comentarios sobre esta metodología, no dudes en ponerte en contacto con nosotros en [guallasamin@gmail.com](mailto:guallasamin@gmail.com).
 
 ---
 *Última actualización: Agosto 2023*
